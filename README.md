@@ -1,15 +1,33 @@
-<<<<<<< HEAD
+## Group Members
 
-  # PPDB User Interface
+- Zabran Farzana Azaria (ketua + kontributor utama)
+- Fatan Ahmad Dzahin (Aktif)
+- Salfa Pebriola Zahra (Tidak Aktif)
+- Khanza Haura (Tidak Aktif)
+- Shaquil Rafa Aqilah (Tidak Aktif)
+- Warsih (Tidak Aktif)
 
-  This is a code bundle for PPDB User Interface. The original project is available at https://www.figma.com/design/tl9yEJZohJB5llXTijiy7I/PPDB-User-Interface.
+## Deploy
 
-  ## Running the code
+Lihat aplikasi secara langsung di: [https://aabamz.github.io/ppdb-desain/](https://aabamz.github.io/ppdb-desain/)
 
-  Run `npm i` to install the dependencies.
 
-  Run `npm run dev` to start the development server.
-  
-=======
-# ui-ppdb
->>>>>>> 9561843db82b1fbedae537688467c0b760d63704
+## Installation 
+
+Install dependencies:
+
+```bash
+npm install
+
+Start development server:
+
+npm run dev
+
+Build for production:
+
+npm run build
+
+
+Deploy to GitHub Pages:
+
+npm run deploy
