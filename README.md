@@ -11,7 +11,7 @@
 
 Lihat aplikasi secara langsung di: [https://aabamz.github.io/ppdb-desain/](https://aabamz.github.io/ppdb-desain/)
 
-Data login tersiman di localhost
+*Data login tersiman di localhost*
 
 ## Figma Design
 
