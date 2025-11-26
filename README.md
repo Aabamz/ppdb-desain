@@ -1,8 +1,8 @@
 ## Group Members
 
 - Zabran Farzana Azaria (ketua + kontributor utama)
-- Fatan Ahmad Dzahin (Bantuan seadanya)
-- Salfa Pebriola Zahra (Bantuan seadanya)
+- Fatan Ahmad Dzahin (assist)
+- Salfa Pebriola Zahra (assist)
 - Khanza Haura (Tidak Aktif)
 - Shaquil Rafa Aqilah (Tidak Aktif)
 - Warsih (Tidak Aktif)
